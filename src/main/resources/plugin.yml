@@ -1,0 +1,8 @@
+name: BedrockRTP
+version: '0.1'
+
+main: net.isnserver.bedrockrtp.BedrockRTP
+api-version: '1.21.11'
+load: STARTUP
+
+authors: [ Gib/DrBulma ]
